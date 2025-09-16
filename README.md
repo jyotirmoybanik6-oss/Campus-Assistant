@@ -25,7 +25,7 @@ Prerequisites
 
     Python 3.8+
     install c++ using vs_BuildTools
-    At least 8GB RAM
+    At least 8GB RAM (recommended 16 GB)
     GGUF format language model (Gemma 3 4b recommended)
 
 
